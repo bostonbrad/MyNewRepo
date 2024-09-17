@@ -1,4 +1,4 @@
 # MyNewRepo
 My New Repo!
 
-This is a test.
+Deleted last line.
